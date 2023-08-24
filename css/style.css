@@ -58,24 +58,24 @@ main {
         align-items:center;
         justify-content: space-evenly;
         align-items: center;
-    }
+}
 
 main .yy{
     width: 300px;
 
 }
 .link2{
-        text-decoration: none;
-        color: antiquewhite;
+     text-decoration: none;
+     color: antiquewhite;
     }
 main img:hover{
     transition: all;
 
 }
 main img{
-        align-items: center;
-        margin-left: 10em;
-    }
+    align-items: center;
+    margin-left: 10em;
+}
 span .hero{
         margin-left: 20em;
     }
